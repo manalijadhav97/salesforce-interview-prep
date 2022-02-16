@@ -25,13 +25,15 @@
         1. Class Reference (Frequently Used)
         1. Annotations
     1. SOQL & SOSL
-    1. Lightning Web Components
-    1. Lightning Aura Components
-    1. Visualforce
-    1. Integration
-    1. Misc
-    2. Common error like 101 error in salesforce and there solutions. 
-    3. FA Technical Qs
+    2. polymorphic soql : List<Event> events = [SELECT Description FROM Event WHERE What.Type IN ('Account', 'Opportunity')];, 
+    List<Event> events = [SELECT TYPEOF What WHEN Account THEN Phone WHEN Opportunity THEN Amount END FROM Event];
+    3. Lightning Web Components
+    4. Lightning Aura Components
+    5. Visualforce
+    6. Integration
+    7. Misc
+    8. Common error like 101 error in salesforce and there solutions. 
+    9. FA Technical Qs
 1. Behavioural Section
     1. How to answer behavioral questions
     1. Tell me about yourself
