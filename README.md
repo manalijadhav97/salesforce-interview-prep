@@ -30,7 +30,8 @@
     1. Visualforce
     1. Integration
     1. Misc
-    1. FA Technical Qs
+    2. Common error like 101 error in salesforce and there solutions. 
+    3. FA Technical Qs
 1. Behavioural Section
     1. How to answer behavioral questions
     1. Tell me about yourself
