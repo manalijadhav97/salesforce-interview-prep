@@ -335,4 +335,6 @@ Learning
     3. Standard apex inbound & outbound integration.
     4. External Objects/Big Objects
     5. Salesforce Connect. 
+    6. Connected App
+    7. Platform Events
 **********************************************************************************************************************
