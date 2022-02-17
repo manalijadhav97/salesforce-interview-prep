@@ -327,3 +327,12 @@ Conflict
 Aaction
 Result
 Learning
+    
+**********************************************************************************************************************
+       Intgeration in salesforce
+    1. Point and click option - workflow outbound integration
+    2. Using Lightning Platform rest api - cURL 
+    3. Standard apex inbound & outbound integration.
+    4. External Objects/Big Objects
+    5. Salesforce Connect. 
+**********************************************************************************************************************
